@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/curl/curl" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/intervention/image" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/jeremeamia/superclosure" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/league/glide" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/middlewares/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/middlewares/request-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/middlewares/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/narrowspark/http-emitter" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nicmart/tree" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/php-di/invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/php-di/php-di" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/php-di/phpdoc-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-server-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-server-middleware" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/relay/relay" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/spatie/browsershot" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/spatie/crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/spatie/image" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/spatie/image-optimizer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/spatie/robots-txt" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/spatie/temporary-directory" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tightenco/collect" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/zendframework/zend-diactoros" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
